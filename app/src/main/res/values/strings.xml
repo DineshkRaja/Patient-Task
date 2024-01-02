@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bright Bridge Task</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="add">ADD</string>
+
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Non-Binary</item>
+        <item>Other</item>
+        <item>Prefer not to say</item>
+    </string-array>
+
+</resources>
